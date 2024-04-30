@@ -1,0 +1,43 @@
+{
+ 
+  "name": "backend",
+ 
+  "version": "1.0.0",
+ 
+  "main": "index.js",
+ 
+  "type": "module",
+ 
+  "devDependencies": {
+ 
+   
+  "coffee-script": "^1.3.3"
+ 
+  },
+ 
+  "scripts": {
+ 
+   
+  "test": "echo \"Error: no test specified\" && exit 1"
+ 
+  },
+ 
+  "author": "Murthy",
+ 
+  "license": "ISC",
+ 
+  "description": "",
+ 
+  "dependencies": {
+ 
+   
+  "express": "^4.19.2",
+ 
+   
+  "it": "^1.1.1",
+ 
+   
+  "mssql": "^10.0.2"
+ 
+  }
+}
